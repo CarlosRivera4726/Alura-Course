@@ -76,4 +76,4 @@ tienen que abrir la consola e ir creado tabla con tabla de acuerdo al modelo rel
 
 
 ### Puedes encontrar el resto de codigo en la carpeta SRC
-#### E:\Users\Projects\Alura-Course\control_de_stock\src\main\java\com\alura\jdbc
+#### https://github.com/CarlosRivera4726/Alura-Course/tree/main/control_de_stock/src/main/java/com/alura/jdbc
