@@ -1,7 +1,7 @@
 
 # CONTROL DE STOCK || JAVA || JDBC || 📝  
 ES UN PROYECTO REALIZADO EN JAVA DONDE MANEJAMOS BUENAS PRACTICAS, CREANDO CLASES DAO PARA LA CONEXION A BASES DE DATOS
-TENEMOS TAMBIEN EL USO DE ![#f03c15](https://placehold.it/120/ffffff/ff0000?text=CONNECTIONFACTORY) QUE ES DONDE SE MANEJA UNA CLASE PARA LA APERTURA DE LA CONEXION
+TENEMOS TAMBIEN EL USO DE CONNECTIONFACTORY QUE ES DONDE SE MANEJA UNA CLASE PARA LA APERTURA DE LA CONEXION
 TAMBIEN USAMOS EL TRY-WITH RESOURCES
 
 ## Get Started 🚀  
@@ -72,7 +72,7 @@ tienen que abrir la consola y
 '''
 
 ### Modelo relacional de la base de datos
-![No se encontró la imagen](database\Model.png)
+![No se encontró la imagen](https://github.com/CarlosRivera4726/Alura-Course/blob/main/control_de_stock/database/Model.png)
 
 
 ### Puedes encontrar el resto de codigo en la carpeta SRC
