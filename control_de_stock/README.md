@@ -6,7 +6,7 @@ TAMBIEN USAMOS EL TRY-WITH RESOURCES
 
 ## Get Started 🚀  
 Les dejo el script para crear la base de datos generada automaticamente, de igual forma se puede hacer manual como lo hice
-tienen que abrir la consola y 
+tienen que abrir la consola e ir creado tabla con tabla de acuerdo al modelo relacional que esta más abajo del código, 😁😁😁
     
 
 ### database/Database.sql
