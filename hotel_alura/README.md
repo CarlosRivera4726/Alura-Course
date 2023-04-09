@@ -236,4 +236,4 @@ https://youtu.be/CAhDrZ3NzeE
 ## Badges  
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQcORX80-q_TUEHFeKmGy0w?style=social)
 
-[![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/follow-me-linkedin.svg)(https://www.linkedin.com/in/carlos-rivera-g-c/)
+[![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/follow-me-linkedin.svg)](https://www.linkedin.com/in/carlos-rivera-g-c/)
