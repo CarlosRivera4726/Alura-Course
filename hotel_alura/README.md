@@ -1,6 +1,10 @@
+## Tecnologias Empleadas
+
 [![forthebadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/es/)
 
 [![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/made-with-mysql.svg)](https://www.mysql.com/downloads/)
+
+[![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/made-with-eclipse.svg)](https://www.eclipse.org/downloads/)
 
 ## Red Linkedin
 [![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/follow-me-linkedin.svg)](https://www.linkedin.com/in/carlos-rivera-g-c/)
