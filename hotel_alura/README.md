@@ -1,6 +1,9 @@
 [![forthebadge made-with-java](https://forthebadge.com/images/badges/made-with-java.svg)](https://www.java.com/es/)
 
 [![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/made-with-mysql.svg)](https://www.mysql.com/downloads/)
+
+## Red Linkedin
+[![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/follow-me-linkedin.svg)(https://www.linkedin.com/in/carlos-rivera-g-c/)
 # Hotel Alura 📝  
 En este artículo voy a explicar cómo crear un programa en Java que realice las funciones de un sistema de gestión de reservas para un hotel llamado Alura. El programa tendrá las siguientes características:
 
@@ -228,4 +231,4 @@ https://youtu.be/CAhDrZ3NzeE
 ## Badges  
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQcORX80-q_TUEHFeKmGy0w?style=social)
 
-![Generic badge](https://img.shields.io/badge/Linkedin-Follow%20Me-blue)(https://www.linkedin.com/in/carlos-rivera-g-c/)
+[![forthebadge](https://github.com/CarlosRivera4726/Alura-Course/blob/main/hotel_alura/follow-me-linkedin.svg)(https://www.linkedin.com/in/carlos-rivera-g-c/)
